@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39766620-16ae-4c4e-9365-b9ce1c0ce558" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeIris Favorites" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="UML Sequence" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X0L8sl69JMBrUkaNSdFS8hr4Ka" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39766620-16ae-4c4e-9365-b9ce1c0ce558" name="Default Changelist" comment="" />
+      <created>1580177908614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580177908614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580179239059">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="534" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1620.1040@0.0.1620.1040" timestamp="1580179239059" />
+    <state x="1021" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1580179209199">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="1021" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1620.1040@0.0.1620.1040" timestamp="1580179209199" />
+    <state x="591" y="267" key="FileChooserDialogImpl" timestamp="1580346828231">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="591" y="267" key="FileChooserDialogImpl/0.0.1620.1080@0.0.1620.1080" timestamp="1580346828231" />
+    <state x="590" y="271" key="SettingsEditor" timestamp="1580346953327">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="590" y="271" key="SettingsEditor/0.0.1620.1080@0.0.1620.1080" timestamp="1580346953327" />
+    <state x="876" y="254" width="744" height="606" key="find.popup" timestamp="1580178969010">
+      <screen x="0" y="0" width="1620" height="1040" />
+    </state>
+    <state x="876" y="254" width="744" height="606" key="find.popup/0.0.1620.1040@0.0.1620.1040" timestamp="1580178969010" />
+    <state x="0" y="0" width="100" height="100" key="net.trustx.simpleuml.components.BirdViewFrame" timestamp="1580261798664">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="0" y="0" width="100" height="100" key="net.trustx.simpleuml.components.BirdViewFrame/0.0.1620.1080@0.0.1620.1080" timestamp="1580261798664" />
+    <state x="235" y="161" key="new project wizard" timestamp="1580371520976">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="235" y="161" key="new project wizard/0.0.1620.1080@0.0.1620.1080" timestamp="1580371520976" />
+    <state x="473" y="236" key="search.everywhere.popup" timestamp="1580282424213">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="473" y="236" key="search.everywhere.popup/0.0.1620.1080@0.0.1620.1080" timestamp="1580282424213" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../Seq.suml" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
